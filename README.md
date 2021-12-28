@@ -3,7 +3,6 @@
 ## Patches
 
 - [Ligatures](https://st.suckless.org/patches/ligatures/) adds proper drawing of ligatures.
-- [Bold is not bright](https://st.suckless.org/patches/ligatures/) bold text is rendered with a bold font in the bright variant of the current color.
 
 ## Installation for newbs
 
