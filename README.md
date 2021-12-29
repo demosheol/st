@@ -4,6 +4,7 @@
 
 - [Ligatures](https://st.suckless.org/patches/ligatures/) adds proper drawing of ligatures.
 - [Bold is not bright](https://st.suckless.org/patches/bold-is-not-bright/) bold text is rendered with a bold font in the bright variant of the current color.
+- [Blinking cursor](https://st.suckless.org/patches/blinking_cursor/) allows the use of a blinking cursor.
 
 ## Installation for newbs
 
