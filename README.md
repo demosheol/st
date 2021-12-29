@@ -1,4 +1,4 @@
-# Sheol's build of ST (Suckless Terminal)
+# Sheol's build of ST (Simple Terminal)
 
 ## Patches
 
